@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/viajes-a-colombia",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a viajes-a-colombia",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/viajes-a-colombia.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.rincondelviaje.com/viajes-a-colombia/"
+    },
+    "homepage": "https://www.rincondelviaje.com/viajes-a-colombia/"
+}
